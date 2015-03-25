@@ -1,2 +1,2 @@
 # sublime-config
-my sublimetext3 configs.
+my sublimetext3 config.
