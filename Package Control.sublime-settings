@@ -9,11 +9,11 @@
 	],
 	"installed_packages":
 	[
-		"DeleteBlankLines",
+	        "AdvancedNewFile",
 		"Emmet",
-		"Goto-CSS-Declaration",
+		"HTML-CSS-JS Prettify",
 		"LESS",
 		"Package Control",
-		"SideBarEnhancements"
+		"SyncedSideBar"  
 	]
 }
