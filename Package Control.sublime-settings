@@ -2,18 +2,13 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
-	        "AdvancedNewFile",
+		"AdvancedNewFile",
+		"DeleteBlankLines",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
-		"LESS",
 		"Package Control",
-		"SyncedSideBar"  
+		"SyncedSideBar"
 	]
 }
