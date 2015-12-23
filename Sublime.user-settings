@@ -1,0 +1,11 @@
+{
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"DocBlockr",
+		"Vintage"
+	],
+	"preview_on_click": false,
+	"open_files_in_new_window":false
+}
+
