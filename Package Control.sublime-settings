@@ -1,14 +1,21 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Codecs33",
+		"ConvertToUTF8",
 		"DeleteBlankLines",
 		"Emmet",
+		"EncodingHelper",
 		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Markdown Preview",
 		"Package Control",
-		"SyncedSideBar"
+		"SideBarEnhancements",
+		"SqlBeautifier"
 	]
 }
